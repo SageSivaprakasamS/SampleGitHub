@@ -1,1 +1,2 @@
 D:\SampleGitHub\SampleGitHub\SonataGitSample\SonataGitSample\bin\Debug\SonataGitSample.exe.config
+C:\Users\sivaprakasam.s\Documents\GitHub\FirstGitHub\SonataGitSample\SonataGitSample\bin\Debug\SonataGitSample.exe.config
