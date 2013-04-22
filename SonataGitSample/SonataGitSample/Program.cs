@@ -11,6 +11,9 @@ namespace SonataGitSample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to git");
+
+            Console.Read();
         }
     }
 }
