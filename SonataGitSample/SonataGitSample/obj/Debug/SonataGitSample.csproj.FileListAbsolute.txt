@@ -5,3 +5,6 @@ D:\SampleGitHub\SampleGitHub\SonataGitSample\SonataGitSample\bin\Debug\SonataGit
 D:\SampleGitHub\SampleGitHub\SonataGitSample\SonataGitSample\bin\Debug\SonataGitSample.pdb
 D:\SampleGitHub\SampleGitHub\SonataGitSample\SonataGitSample\obj\Debug\SonataGitSample.exe
 D:\SampleGitHub\SampleGitHub\SonataGitSample\SonataGitSample\obj\Debug\SonataGitSample.pdb
+D:\SampleGitHub\New folder\SampleGitHub\SonataGitSample\SonataGitSample\bin\Debug\SonataGitSample.exe.config
+D:\SampleGitHub\New folder\SampleGitHub\SonataGitSample\SonataGitSample\obj\Debug\SonataGitSample.exe
+D:\SampleGitHub\New folder\SampleGitHub\SonataGitSample\SonataGitSample\obj\Debug\SonataGitSample.pdb
