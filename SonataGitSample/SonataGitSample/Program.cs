@@ -12,7 +12,7 @@ namespace SonataGitSample
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Welcome to git KJHKHKJHKJHKKJHKJHKJHKJHJKHJKHSD");
+            Console.WriteLine("Welcome to git KJHKHKJHKJHKKJHKJHKJHKJHJKHJKHSD aasdasdasdasdasdasdasdasdasdasdasd");
 
 
 
