@@ -12,12 +12,12 @@ namespace SonataGitSample
         static void Main(string[] args)
         {
 
-            int iikkklllklklasdlkjljlkjlkjlkjlkjllkjlkjlkjlkjlkjlkjljlj = 0;
+            int ii = 0;
             Console.WriteLine("Wel213123coasdsdme` to gasdsadit KJHsadasdsaKHKJHasdsadKJHKKJHKJsdsdsdsHKJHKJHJKHJKHSD aasdasdasdasdasdasdasdasdasdasdasd ajbsdjasndlsaldnaskndljsadlashdkhnsalk");
 
 
 
-            TDoWork.MyProperty = "Set this";
+            
 
           
 
