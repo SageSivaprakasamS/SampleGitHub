@@ -12,12 +12,13 @@ namespace SonataGitSample
         static void Main(string[] args)
         {
 
-            int iikkklllklklasd = 0;
+            int iikkklllklklasd = 1;
             Console.WriteLine("Wel213123coasdsdme` to gasdsadit KJHsadasdsaKHKJHasdsadKJHKKJHKJsdsdsdsHKJHKJHJKHJKHSD aasdasdasdasdasdasdasdasdasdasdasd ajbsdjasndlsaldnaskndljsadlashdkhnsalk");
 
 
 
-            TDoWork.MyProperty = "Set this";
+			//Added to create conflicts
+            TDoWork.MyProperty = "Set this correctly";
 
           
 
